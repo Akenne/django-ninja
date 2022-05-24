@@ -1,0 +1,197 @@
+[ 
+{ 
+"company_id" : "844894bf-f847-4a79-813f-b5226e7bc6e1", 
+"company_name" : "Shake Shack", 
+"scenario" : "45",
+"total" : 0.0012796590980578798, 
+"hurricane" : 1.8099272727272725E-4, 
+"flood" : 5.431079582101546E-4, 
+"storm" : 5.540050839344681E-4, 
+"wildfire" : 1.553328640529936E-6 
+}, 
+{ 
+"company_id" : "844894bf-f847-4a79-813f-b5226e7bc6e1", "company_name" : "Shake Shack", 
+"scenario" : "85", 
+"total" : 0.0013419105476348374, 
+"hurricane" : 2.459549999999999E-4, 
+"flood" : 5.599960510965843E-4, 
+"storm" : 5.33979087092802E-4, 
+"wildfire" : 1.9804094454505063E-6 
+}, 
+{ 
+"company_id" : "844894bf-f847-4a79-813f-b5226e7bc6e1", "company_name" : "Shake Shack Inc", 
+"scenario" : "45", 
+"total" : 0.00246495237499809, 
+"hurricane" : 1.9223E-4, 
+"flood" : 0.0016227194884888658, 
+"storm" : 6.500028865092248E-4, 
+"wildfire" : 0.0 
+}, 
+{ 
+"company_id" : "844894bf-f847-4a79-813f-b5226e7bc6e1", "company_name" : "Shake Shack Inc", 
+"scenario" : "85", 
+"total" : 0.0025197664629465705, 
+"hurricane" : 1.6622000000000002E-4, 
+"flood" : 0.0017305193198718348, 
+"storm" : 6.230271430747359E-4, 
+"wildfire" : 0.0 
+}, 
+{ 
+"company_id" : "e315e7ad-14a2-4edf-81c9-1b67964ff410", "company_name" : "Dignity Memorial", 
+"scenario" : "45", 
+"total" : 5.850668088894697E-4, 
+"hurricane" : 1.6405E-5, 
+"flood" : 0.0, 
+"storm" : 5.686618088894697E-4, 
+"wildfire" : 0.0 
+}, 
+{ 
+"company_id" : "e315e7ad-14a2-4edf-81c9-1b67964ff410", "company_name" : "Dignity Memorial", 
+"scenario" : "85", 
+"total" : 6.260866502805068E-4, 
+"hurricane" : 4.796E-5, 
+"flood" : 0.0, 
+"storm" : 5.78126650280507E-4, 
+"wildfire" : 0.0 
+}, 
+{
+"company_id" : "e315e7ad-14a2-4edf-81c9-1b67964ff410", "company_name" : "National Cremation Society", 
+"scenario" : "45", 
+"total" : 4.068920033205453E-4, 
+"hurricane" : 5.474999999999999E-6, 
+"flood" : 0.0, 
+"storm" : 4.014170033205453E-4, 
+"wildfire" : 0.0 
+}, 
+{ 
+"company_id" : "e315e7ad-14a2-4edf-81c9-1b67964ff410", "company_name" : "National Cremation Society", 
+"scenario" : "85", 
+"total" : 4.1991832419556143E-4, 
+"hurricane" : 1.1835000000000001E-5, 
+"flood" : 0.0, 
+"storm" : 4.0808332419556146E-4, 
+"wildfire" : 0.0 
+}, 
+{ 
+"company_id" : "e315e7ad-14a2-4edf-81c9-1b67964ff410", "company_name" : "Neptune Society", 
+"scenario" : "45", 
+"total" : 6.589367989220828E-4, 
+"hurricane" : 6.0952E-5, 
+"flood" : 3.8705858719547465E-5, 
+"storm" : 5.582783132214509E-4, 
+"wildfire" : 1.000626981084628E-6 
+}, 
+{ 
+"company_id" : "e315e7ad-14a2-4edf-81c9-1b67964ff410", "company_name" : "Neptune Society", 
+"scenario" : "85", 
+"total" : 7.165482542162716E-4, 
+"hurricane" : 9.815400000000001E-5, 
+"flood" : 4.127715035257383E-5, 
+"storm" : 5.749441688339177E-4, 
+"wildfire" : 2.172935029780068E-6 
+}, 
+{ 
+"company_id" : "e315e7ad-14a2-4edf-81c9-1b67964ff410", "company_name" : "Service Corporation International", "scenario" : "45", 
+"total" : 0.004925347018548078, 
+"hurricane" : 8.396325E-4, 
+"flood" : 0.0024519403852561604, 
+"storm" : 0.0013969855983750879, 
+"wildfire" : 2.367885349168304E-4 
+}, 
+{ 
+"company_id" : "e315e7ad-14a2-4edf-81c9-1b67964ff410", "company_name" : "Service Corporation International", "scenario" : "85", 
+"total" : 0.005274849715724474, 
+"hurricane" : 8.907575000000001E-4, 
+"flood" : 0.002508914691423601, 
+"storm" : 0.001572244488254517,
+"wildfire" : 3.029330360463559E-4 
+}, 
+{ 
+"company_id" : "f816b8b2-ade8-4d45-846f-b404c6a0c613", "company_name" : "SGS Consumer and Retail", 
+"scenario" : "45", 
+"total" : 0.0034616173340491756, 
+"hurricane" : 0.0, 
+"flood" : 0.0029294594694681485, 
+"storm" : 5.321578645810271E-4, 
+"wildfire" : 0.0 
+}, 
+{ 
+"company_id" : "f816b8b2-ade8-4d45-846f-b404c6a0c613", "company_name" : "SGS Consumer and Retail", 
+"scenario" : "85", 
+"total" : 0.00353637145988067, 
+"hurricane" : 0.0, 
+"flood" : 0.0029840758355191657, 
+"storm" : 5.522956243615041E-4, 
+"wildfire" : 0.0 
+}, 
+{ 
+"company_id" : "f816b8b2-ade8-4d45-846f-b404c6a0c613", "company_name" : "SGS Environmental Contracting LLC", "scenario" : "45", 
+"total" : 0.0011269369841428857, 
+"hurricane" : 0.0, 
+"flood" : 6.945044582194964E-4, 
+"storm" : 4.249086712423552E-4, 
+"wildfire" : 7.523854681034268E-6 
+}, 
+{ 
+"company_id" : "f816b8b2-ade8-4d45-846f-b404c6a0c613", "company_name" : "SGS Environmental Contracting LLC", "scenario" : "85", 
+"total" : 0.0011006433942056819, 
+"hurricane" : 0.0, 
+"flood" : 6.715899786720076E-4, 
+"storm" : 4.1897213440498376E-4, 
+"wildfire" : 1.0081281128690516E-5 
+}, 
+{ 
+"company_id" : "f816b8b2-ade8-4d45-846f-b404c6a0c613", "company_name" : "SGS North America", 
+"scenario" : "45", 
+"total" : 0.010329645530996736, 
+"hurricane" : 9.156607692307692E-4, 
+"flood" : 0.008601233110380717, 
+"storm" : 7.204425750231781E-4, 
+"wildfire" : 9.230907636207367E-5 
+}, 
+{ 
+"company_id" : "f816b8b2-ade8-4d45-846f-b404c6a0c613", "company_name" : "SGS North America", 
+"scenario" : "85", 
+"total" : 0.010951067904104394,
+"hurricane" : 0.0010693353846153845, 
+"flood" : 0.009100401484104088, 
+"storm" : 6.65630846431142E-4, 
+"wildfire" : 1.1570018895378104E-4 
+}, 
+{ 
+"company_id" : "f816b8b2-ade8-4d45-846f-b404c6a0c613", "company_name" : "SGS Oil Gas and Chemicals", 
+"scenario" : "45", 
+"total" : 0.005034453081059119, 
+"hurricane" : 0.002757534444444444, 
+"flood" : 0.0016990455561590604, 
+"storm" : 5.693054719730796E-4, 
+"wildfire" : 8.56760848253394E-6 
+}, 
+{ 
+"company_id" : "f816b8b2-ade8-4d45-846f-b404c6a0c613", "company_name" : "SGS Oil Gas and Chemicals", 
+"scenario" : "85", 
+"total" : 0.005510386232556317, 
+"hurricane" : 0.003209573333333333, 
+"flood" : 0.001710314276383888, 
+"storm" : 5.795377389002574E-4, 
+"wildfire" : 1.096088393883653E-5 
+}, 
+{ 
+"company_id" : "f816b8b2-ade8-4d45-846f-b404c6a0c613", "company_name" : "SGS Transportation", 
+"scenario" : "45", 
+"total" : 0.0021795427295404624, 
+"hurricane" : 0.0, 
+"flood" : 2.988831350863233E-4, 
+"storm" : 0.0018806595944541394, 
+"wildfire" : 0.0 
+}, 
+{ 
+"company_id" : "f816b8b2-ade8-4d45-846f-b404c6a0c613", "company_name" : "SGS Transportation", 
+"scenario" : "85", 
+"total" : 0.0021124693763251504, 
+"hurricane" : 0.0, 
+"flood" : 2.923026471760073E-4, 
+"storm" : 0.001820166729149143, 
+"wildfire" : 0.0 
+} 
+]
